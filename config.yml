@@ -1,1 +1,5 @@
-
+country: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country-lite.mmdb
+geosite: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat
+geoip: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.dat
+tun: true
+ASN: https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb
